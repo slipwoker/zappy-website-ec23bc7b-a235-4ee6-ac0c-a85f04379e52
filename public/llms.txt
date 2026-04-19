@@ -1,0 +1,53 @@
+# פרוצס PROCES — Generative Engine Optimization Map
+
+> A company offering cleaning services and manpower supply solutions. The business operates in the facility management and staffing sector, providing both professional cleaning services and human resources supply to businesses and organizations.
+
+---
+
+## Pages
+
+### בית
+https://proces-ec23bc7b.zappy5.app
+A company offering cleaning services and manpower supply solutions. The business operates in the facility management and staffing sector, providing both profess
+
+## Legal & Policy
+
+### Privacy Policy
+https://proces-ec23bc7b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://proces-ec23bc7b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://proces-ec23bc7b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פרוצס PROCES
+A company offering cleaning services and manpower supply solutions. The business operates in the facility management and staffing sector, providing both professional cleaning services and human resources supply to businesses and organizations.
+
+## Services/Products
+- שירותי ניקיון
+- אספקת כוח אדם
+
+## Target Audience
+- מנהלי נכסים מסחריים
+- מתחמי דירות יוקרה
+- בעלי עסקים קטנים
+- מארגני אירועים
+- מנהלי משרדים ארגוניים
+
+## Industry
+ניקיון ומשאבי אנוש
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://proces-ec23bc7b.zappy5.app/sitemap.xml
+- **Robots.txt**: https://proces-ec23bc7b.zappy5.app/robots.txt

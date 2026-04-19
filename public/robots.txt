@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://proces-ec23bc7b.zappy5.app/sitemap.xml
